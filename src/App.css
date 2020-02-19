@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+body{
+  font-family: Roboto;
+}
+.navbar-brand{
+  color:black;
+  font-weight: bold;
+}
+.navbar-brand:hover{
+  color: black;
+}
+.navbar-nav>li>a{
+  color:black;
+  font-weight: bold;
+}
+.navbar-nav>li>a:hover{
+  color: black;
+}
